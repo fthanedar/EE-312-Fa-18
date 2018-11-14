@@ -1,0 +1,96 @@
+Neo asks - Do you have a 3?
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a 6?
+Smith asks - Do you have a J?
+Neo says - Go Fish 
+Neo asks - Do you have a 10?
+Smith says - Go Fish 10
+Smith asks - Do you have a 4?
+Neo says - Go Fish 
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a J?
+Neo says - Go Fish 
+Neo asks - Do you have a K?
+Smith says - Go Fish K
+Smith asks - Do you have a 4?
+Neo says - Go Fish 
+Neo asks - Do you have a K?
+Smith says - Go Fish K
+Smith asks - Do you have a 9?
+Neo says - Go Fish 
+Neo asks - Do you have a K?
+Smith says - Go Fish K
+Smith asks - Do you have a 7?
+Smith asks - Do you have a 8?
+Smith asks - Do you have a J?
+Neo says - Go Fish 
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a Q?
+Neo says - Go Fish 
+Neo asks - Do you have a A?
+Neo asks - Do you have a 2?
+Neo asks - Do you have a K?
+Smith says - Go Fish K
+Smith asks - Do you have a J?
+Neo says - Go Fish 
+Neo asks - Do you have a 2?
+Neo asks - Do you have a 7?
+Neo asks - Do you have a K?
+Smith says - Go Fish K
+Smith asks - Do you have a 9?
+Smith asks - Do you have a J?
+Neo says - Go Fish 
+Neo asks - Do you have a K?
+Smith says - Go Fish K
+Smith asks - Do you have a 9?
+Neo says - Go Fish 
+Neo asks - Do you have a 5?
+Smith says - Go Fish 5
+Smith asks - Do you have a 4?
+Neo says - Go Fish 
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a Q?
+Neo says - Go Fish 
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a J?
+Neo says - Go Fish 
+Neo asks - Do you have a A?
+Smith says - Go Fish A
+Smith asks - Do you have a K?
+Smith asks - Do you have a 6?
+Smith asks - Do you have a Q?
+Neo says - Go Fish 
+Neo asks - Do you have a 10?
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a 4?
+Smith asks - Do you have a Q?
+Neo says - Go Fish 
+Neo asks - Do you have a 5?
+Smith says - Go Fish 5
+Smith asks - Do you have a 10?
+Smith asks - Do you have a K?
+Neo says - Go Fish 
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a Q?
+Neo says - Go Fish 
+Neo asks - Do you have a 5?
+Smith says - Go Fish 5
+Smith asks - Do you have a 9?
+Neo says - Go Fish 
+Neo asks - Do you have a 5?
+Smith says - Go Fish 5
+Smith asks - Do you have a 3?
+Neo says - Go Fish 
+Neo asks - Do you have a 8?
+Smith says - Go Fish 8
+Smith asks - Do you have a Q?
+Neo says - Go Fish 
+Smith has won. 
+Smith has : 14 books.
